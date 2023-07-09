@@ -1,4 +1,4 @@
-const apparelsTags: string[] = [
+const clothingTags: string[] = [
     't-shirts',
     'shirts',
     'blouses',
@@ -130,5 +130,5 @@ const apparelsTags: string[] = [
     'shapewear',
   ];
   
-  console.log(apparelsTags);
+  console.log(clothingTags);
   
