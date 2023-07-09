@@ -104,6 +104,7 @@ const occasionTags: string[] = [
     'tribute',
     'gathering',
     'party',
+    'halloween',
     'event planning',
     'event coordination',
     'event management',
@@ -116,6 +117,7 @@ const occasionTags: string[] = [
     'event videography',
     'event marketing',
     'event promotion',
+    'wedding',
     'event tickets',
   ];
   
