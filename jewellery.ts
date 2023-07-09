@@ -16,6 +16,7 @@ const jewelleryTags: string[] = [
     'anklets',
     'brooches',
     'pins',
+    'gold',
     'charms',
     'lockets',
     'birthstone jewellery',

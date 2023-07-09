@@ -127,6 +127,8 @@ const homeOfficeTags: string[] = [
     'room dividers',
     'partitions',
     'window seats',
+    'home',
+    'office',
     'window benches',
     'window cushions',
     'window blinds',

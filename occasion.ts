@@ -117,7 +117,8 @@ const occasionTags: string[] = [
     'event videography',
     'event marketing',
     'event promotion',
-    'wedding',
+    'flowers',
+    'flower',
     'event tickets',
   ];
   
