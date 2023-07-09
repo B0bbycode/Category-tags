@@ -1,4 +1,4 @@
-const homeFurnishingTags: string[] = [
+const homeOfficeTags: string[] = [
     'bedding',
     'bed sheets',
     'duvet covers',
@@ -133,5 +133,5 @@ const homeFurnishingTags: string[] = [
     'window shades',
   ];
   
-  console.log(homeFurnishingTags);
+  console.log(homeOfficeTags);
   
